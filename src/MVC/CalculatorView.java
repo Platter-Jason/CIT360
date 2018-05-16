@@ -5,6 +5,7 @@ import javax.swing.*;
 
 public class CalculatorView extends JFrame{
 
+
 	private JTextField firstNumber  = new JTextField(10);
 	private JLabel additionLabel = new JLabel("+");
 	private JTextField secondNumber = new JTextField(10);
@@ -19,7 +20,8 @@ public class CalculatorView extends JFrame{
 		
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setSize(600, 200);
-		
+
+
 		calcPanel.add(firstNumber);
 		calcPanel.add(additionLabel);
 		calcPanel.add(secondNumber);
