@@ -10,9 +10,6 @@ import javax.json.JsonObject;
 import javax.json.JsonReader;
 import javax.json.JsonValue;
 
-//import com.journaldev.model.Address;
-//import com.journaldev.model.Employee;
-
 public class EmployeeJSONReader {
 
     public static final String JSON_FILE="employee.txt";
