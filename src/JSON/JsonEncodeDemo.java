@@ -11,8 +11,8 @@ public class JsonEncodeDemo {
     public static void main(String[] args) {
 
         JSONObject obj = new JSONObject();
-        obj.put("name", "mkyong.com");
-        obj.put("age", new Integer(100));
+        obj.put("name", "Jason Platter");
+        obj.put("age", new Integer(48));
 
         JSONArray list = new JSONArray();
         list.add("msg 1");

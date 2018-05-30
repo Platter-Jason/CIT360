@@ -1,12 +1,12 @@
 {
 	"id":123,
-	"name":"Pankaj Kumar",
+	"name":"Jason Platter",
 	"permanent":true,
 	"address":{
-			"street":"El Camino Real",
-			"city":"San Jose",
-			"zipcode":95014
+			"street":"1122 Boogi Woogie Avenue",
+			"city":"Olympia",
+			"zipcode":98512
 		},
-	"phoneNumbers":[9988664422, 1234567890],
-	"role":"Developer"
+	"phoneNumbers":[3605551212, 3605551234],
+	"role":"Chief Information Officer"
 }
