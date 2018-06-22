@@ -1,0 +1,12 @@
+{
+	"id":123,
+	"name":"Jason Platter",
+	"permanent":true,
+	"address":{
+			"street":"1122 Boogi Woogie Avenue",
+			"city":"Olympia",
+			"zipcode":98512
+		},
+	"phoneNumbers":[3605551212, 3605551234],
+	"role":"Chief Information Officer"
+}
