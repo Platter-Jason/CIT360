@@ -7,8 +7,6 @@ public class ProductCompare {
 
     private HashMap<String, Product> products;
 
-
-
     public ProductCompare() {
         products = new HashMap<String, Product>();
     }

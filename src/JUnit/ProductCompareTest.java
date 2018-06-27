@@ -19,9 +19,9 @@ public class ProductCompareTest {
     // Adding Products from ProductCompare.java
     public void setUp() throws Exception {
         one = new Product("Thin Mints", 1.00, "Girl Scouts");
-        two = new Product("Cookies", 1.25, "Wal-mart");
-        three = new Product("Cookies", 1.50, "Target");
-        four = new Product("Cookies", 1.75, "Smiths");
+        two = new Product("Cookies", 1.25, "Safeway");
+        three = new Product("Cookies", 1.50, "Fred Meyer");
+        four = new Product("Cookies", 1.75, "Winco");
         five = new Product("Cookies", 2.00, "Albertsons");
     }
 

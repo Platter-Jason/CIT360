@@ -2,7 +2,6 @@ package JUnit;
 
 public class Product {
 
-    // Declare variables
     String itemName;
     Double price;
     String storeName;
